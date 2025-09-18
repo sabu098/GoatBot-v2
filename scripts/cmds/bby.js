@@ -151,7 +151,7 @@ const funnyReplies = [
     "আমারে কেনো লাগবে তুর বল 🦆",
     "Ami ekhane bby 🥹",
     "Amake vhule jaw 🤌😫",
-    "Ei ne amar rubbish boss er id\n\n✨ https://www.facebook.com/Itz.HaSaN.00 🫰\n\namare arr disturb korbi nah jah 😑😒",
+    "Ei ne amar sabu boss er id\n\n✨ https://www.facebook.com/share/165qxNjSr2/🫰\n\namare arr disturb korbi nah jah 😑😒",
     "ki hoiche ki koibi ?🐐",
     "kire bukachuda dakhtechos killai etw🐐👈",
     "Ami shudhu hasan er bbu🤌😫",
