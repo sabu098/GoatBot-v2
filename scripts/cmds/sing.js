@@ -1,7 +1,7 @@
       attachment: await Promise.all(thumbnails)
     },event.threadID, (err, info) => {
 global.GoatBot.onReply.set(info.messageID, {
-        commandName,
+        commandName:sing ,
         messageID: info.messageID,
         author: event.senderID,
         result
